@@ -1,4 +1,4 @@
-**Desarrolla los siguientes algortimos utilizando pseudocódigo o el lenguaje de programación de tu prefenrecia.**
+**Desarrolla los siguientes algortimos utilizando pseudocódigo o el lenguaje de programación de tu preferencia.**
 
 1. Introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
 
@@ -15,6 +15,6 @@
 7. Permitir ingresar 10 letras cualquiera, e indicar al final cuantas vocales y cuantas consonantes se ingresaron.
 
 8. Imprimir la serie fibonacci mientras el último número sea menor o igual al un número "n" dado. 
-Ejemplo: Si introduce 10, imprime:  0 1 1 2 3 5 8
-Si introduce 15, imprime: 0 1 1 2 3 5 8 13
+Ejemplo: Si introduce 10, imprime:  0 1 1 2 3 5 8; 
+Si introduce 15, imprime: 0 1 1 2 3 5 8 13; 
 Si introduce 20, imprime: 0 1 1 2 3 5 8 13
