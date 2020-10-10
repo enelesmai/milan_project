@@ -1,4 +1,4 @@
-**Desarrolla los siguientes algortimos utilizando pseudocódigo o el lenguaje de programación de tu prefenrecia.
+**Desarrolla los siguientes algortimos utilizando pseudocódigo o el lenguaje de programación de tu prefenrecia.**
 
 1. Introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
 
