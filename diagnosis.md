@@ -1,6 +1,6 @@
 **Desarrolla los siguientes algortimos utilizando pseudocódigo o el lenguaje de programación de tu preferencia.**
 
-1. Introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
+1. Introducir 5 calificaciones (utilizar un array), ya teniendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
 
 2. Introducir 9 números que se almacenen en un array bidimensional ejemplo: numeros[3][3], utilizar un método para calcular la suma de la diagonal y mostrarla al usuario. 
 
